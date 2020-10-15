@@ -3,10 +3,10 @@ Input file: fate.map
 Output file: fate.bsp
 
 ---- LoadMapFile ----
-*** WARNING 06: No info_player_deathmatch entities in level
+*** WARNING 05: No info_player_start entity in level
           966 faces
           161 brushes
-            2 entities
+            8 entities
             5 unique texnames
           339 texinfo
 
@@ -80,7 +80,7 @@ Wrote fate.bsp
             5 textures          76384
               lightdata             0
               visdata               0
-              entdata             221
+              entdata             682
 
-0.501 seconds elapsed
-Peak memory usage: 9216392 (8.8M)
+1.865 seconds elapsed
+Peak memory usage: 9216800 (8.8M)

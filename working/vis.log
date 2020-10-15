@@ -11,7 +11,7 @@ Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
 average leafs visible: 54
 c_noclip: 0
-c_chains: 43995
-visdatasize:2701  compressed from 2774
+c_chains: 44130
+visdatasize:2702  compressed from 2774
 Writing fate.bsp as BSP version 29
   0.2 seconds elapsed
