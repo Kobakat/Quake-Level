@@ -1,3 +1,3 @@
 cd\
-cd C:\School\FA20\GD\quake-leveldesign-starterkit
-quakespasm  +map demo
+cd C:\School\FA20\GD\Quake-Level
+quakespasm  +map fate

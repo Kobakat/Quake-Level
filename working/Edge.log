@@ -1,6 +1,6 @@
 ---- qbsp / ericw-tools v0.18.1 ----
-Input file: fate.map
-Output file: fate.bsp
+Input file: Edge.map
+Output file: Edge.bsp
 
 ---- LoadMapFile ----
          1097 faces
@@ -65,7 +65,7 @@ Processing hull 1...
 Processing hull 2...
 *** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 ---- WriteBSPFile ----
-Wrote fate.bsp
+Wrote Edge.bsp
           334 planes             6680
          1114 vertexes          13368
           387 nodes              9288
@@ -81,5 +81,5 @@ Wrote fate.bsp
               visdata               0
               entdata            1761
 
-0.514 seconds elapsed
+0.567 seconds elapsed
 Peak memory usage: 10608668 (10.1M)

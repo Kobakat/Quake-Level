@@ -1,15 +1,16 @@
 ---- light / ericw-tools v0.18.1 ----
 Raytracing backend: Embree
 running with 8 threads
-LoadBSPFile: 'fate.bsp'
+LoadBSPFile: 'Edge.bsp'
 BSP is version 29
 --- LoadEntities ---
-8 entities read, 0 are lights.
+26 entities read, 0 are lights.
 --- OptionsSummary ---
+    "light" was set to "1.000000" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	707 solid faces
+	799 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -24,8 +25,8 @@ Lighting Completed.
 
 lightdatasize: 0
 0 switchable light styles (32 max)
-Writing fate.bsp as BSP version 29
-0.162 seconds elapsed
+Writing Edge.bsp as BSP version 29
+0.193 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
