@@ -3149,6 +3149,9 @@
 "delay" "0"
 "wait" ".25"
 "light" "200"
+"target" ""
+"killtarget" ""
+"targetname" "item_armor2"
 }
 // entity 34
 {
@@ -3707,6 +3710,7 @@
 "delay" "0"
 "wait" "1"
 "light" "150"
+"target" ""
 }
 // entity 99
 {
@@ -3716,6 +3720,7 @@
 "delay" "0"
 "wait" "1"
 "light" "150"
+"target" ""
 }
 // entity 100
 {
@@ -3743,6 +3748,7 @@
 "delay" "0"
 "wait" "1"
 "light" "150"
+"target" ""
 }
 // entity 103
 {
@@ -3752,6 +3758,9 @@
 "delay" "0"
 "wait" "1"
 "light" "150"
+"target" ""
+"killtarget" ""
+"targetname" "item_armor2"
 }
 // entity 104
 {
@@ -3946,6 +3955,7 @@
 "delay" "0"
 "wait" "1"
 "light" "150"
+"target" ""
 }
 // entity 126
 {

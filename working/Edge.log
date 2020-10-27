@@ -3,83 +3,81 @@ Input file: Edge.map
 Output file: Edge.bsp
 
 ---- LoadMapFile ----
-         1097 faces
-          186 brushes
-           26 entities
-            5 unique texnames
-          391 texinfo
+         1948 faces
+          332 brushes
+          146 entities
+           23 unique texnames
+           67 texinfo
 
 Opened WAD: C:/School/FA20/GD/quake-leveldesign-starterkit/wads/id1.wad
 Opened WAD: C:/School/FA20/GD/Quake-Level/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          186 brushes
-          163 planes
+          332 brushes
+          189 planes
 ---- CSGFaces ----
-         1097 brushfaces
-         1166 csgfaces
-         1113 mergedfaces
+         1948 brushfaces
+         1671 csgfaces
+         1516 mergedfaces
 ---- SolidBSP ----
-         1379 split nodes
-          573 solid leafs
-          774 empty leafs
-           33 water leafs
+         1786 split nodes
+          748 solid leafs
+         1002 empty leafs
+           37 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         2469 leaffaces
-         2299 nodefaces
+         3286 leaffaces
+         3068 nodefaces
 ---- Portalize ----
-          807 vis leafs
-          807 vis clusters
-         1976 vis portals
+         1039 vis leafs
+         1039 vis clusters
+         2584 vis portals
 ---- FillOutside ----
-          544 outleafs
+          728 outleafs
 ---- MergeAll ----
-          593 mergefaces
+          699 mergefaces
 ---- SolidBSP ----
-          387 split nodes
-          231 solid leafs
-          149 empty leafs
+          400 split nodes
+          242 solid leafs
+          151 empty leafs
             8 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         1028 leaffaces
-          815 nodefaces
+         1195 leaffaces
+          935 nodefaces
 ---- Portalize ----
-          157 vis leafs
-          157 vis clusters
-          328 vis portals
+          159 vis leafs
+          159 vis clusters
+          336 vis portals
 ---- Tjunc ----
-          811 world edges
-         2889 edge points
-          678 edges added by tjunctions
+          935 world edges
+         3303 edge points
+          767 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
-*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
 Processing hull 2...
-*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 ---- WriteBSPFile ----
 Wrote Edge.bsp
-          334 planes             6680
-         1114 vertexes          13368
-          387 nodes              9288
-          217 texinfo            8680
-          815 faces             16300
-         2843 clipnodes         22744
-          158 leafs              4424
-         1028 marksurfaces       2056
-         3980 surfedges         15920
-         1991 edges              7964
-            5 textures          76384
+          294 planes             5880
+         1272 vertexes          15264
+          400 nodes              9600
+           49 texinfo            1960
+          935 faces             18700
+         1021 clipnodes          8168
+          160 leafs              4480
+         1195 marksurfaces       2390
+         4552 surfedges         18208
+         2277 edges              9108
+           23 textures         158776
               lightdata             0
               visdata               0
-              entdata            1761
+              entdata           13311
 
-0.567 seconds elapsed
-Peak memory usage: 10608668 (10.1M)
+0.574 seconds elapsed
+Peak memory usage: 11612318 (11.1M)
